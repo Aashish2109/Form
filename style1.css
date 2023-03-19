@@ -1,0 +1,56 @@
+div {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-style: dotted ;
+    border-width: 10px  ;
+}
+#def
+{
+    margin:auto;
+    background-color: beige;
+    height: 30vh;
+    width:50vh;
+    justify-content: center; 
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-style: dashed;
+}
+h1 {
+    text-align: center;
+}
+
+content {
+    padding: 30px;
+}
+a:link
+{
+    color:red;
+}
+a:visited
+{
+    color: purple;
+}
+a:hover
+{
+    background-color: blue;
+}
+a:active
+{
+    color:brown;
+}
+
+
+body
+{
+    background-image:url('image2.jpeg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
